@@ -1,0 +1,8 @@
+
+TASK 1 -
+Provision vpc in mumbai region with ip range "8,000" using terraform, create subnet in ap-south-1b a.z, route-table, internet-gateway using terraform, create a pdf of the ready infra on aws and and .tf file's.
+
+
+terraform init
+terraform plan
+terraform apply
