@@ -6,3 +6,4 @@ Provision vpc in mumbai region with ip range "8,000" using terraform, create sub
 terraform init
 terraform plan
 terraform apply
+terraform destroy
