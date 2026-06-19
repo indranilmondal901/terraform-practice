@@ -1,5 +1,7 @@
 # Terraform
 Task-1/.terraform/
+Task-2/.terraform/
+
 *.tfstate
 *.tfstate.*
 .terraform.lock.hcl

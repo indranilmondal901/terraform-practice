@@ -1,0 +1,19 @@
+Task 2 -
+Provision an aws ec2 instance with instance type "t3.micro" in mumbai region through terraform.
+
+Create a s3 bucket in singapore region using IAC terraform.
+
+
+
+Recommended: Configure AWS CLI credentials
+
+Run:
+
+aws configure
+
+You'll be prompted for:
+
+AWS Access Key ID [None]: <your-access-key>
+AWS Secret Access Key [None]: <your-secret-key>
+Default region name [None]: ap-south-1
+Default output format [None]: json
